@@ -1,0 +1,5 @@
+{
+  "datafeed.name": "tushare",
+  "datafeed.username": "YOUR_TUSHARE_USERNAME",
+  "datafeed.password": "YOUR_TUSHARE_TOKEN"
+}
