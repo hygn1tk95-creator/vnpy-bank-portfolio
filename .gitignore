@@ -1,0 +1,13 @@
+# VeighNa runtime data and potentially sensitive settings
+.vntrader/
+
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets and logs
+.env
+*.log
