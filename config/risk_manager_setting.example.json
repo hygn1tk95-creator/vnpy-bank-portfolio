@@ -1,0 +1,7 @@
+{
+  "A股整手与金额检查": {
+    "active": true,
+    "lot_size": 100,
+    "max_order_value": 20000
+  }
+}
